@@ -1,0 +1,16 @@
+title: Data Structures Portfolio
+description: Documenting my learning in Data Structures
+theme: jekyll-theme-minimal
+
+logo: profile.png
+
+author: Your Name
+
+show_downloads: false
+
+github:
+  is_project_page: false
+
+social_links:
+  github: https://github.com/yourusername
+  linkedin: https://linkedin.com/in/yourprofile
